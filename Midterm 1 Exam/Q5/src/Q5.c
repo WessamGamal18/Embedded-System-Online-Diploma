@@ -16,7 +16,7 @@ int main(void) {
 	        printf("Enter a number : ");
 	        fflush(stdin); fflush(stdout);
 	        scanf("%d",&i);
-	        for (n=0;n<16;n++)
+	        for (n=0;n<32;n++)
 	        {
 	        	if (n==0)
 	        	{
