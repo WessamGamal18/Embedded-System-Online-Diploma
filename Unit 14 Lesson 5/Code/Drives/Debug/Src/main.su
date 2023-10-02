@@ -1,0 +1,7 @@
+main.c:63:6:SVC_Handler	4	static,ignoring_inline_asm
+main.c:68:6:SWITCH_CPU_AccessLevel	16	static,ignoring_inline_asm
+main.c:89:6:EXTI9_Callback	4	static
+main.c:103:5:TaskA	24	static
+main.c:109:5:TaskB	24	static
+main.c:114:6:MainOS	8	static,ignoring_inline_asm
+main.c:169:5:main	32	static
